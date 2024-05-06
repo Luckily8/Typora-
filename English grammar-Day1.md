@@ -24,7 +24,7 @@
    - 主+谓：*I did ~~well in English~~.*
    - 主+谓+宾:*I love you.*
    - 主+谓+宾+宾:*She cooked her husband a meal.*
-   - 主+谓+宾+宾补:*I’ll have my hair cut.*(让别人做某事have sth. done)
+   - 主+谓+宾+宾补:*I’ll have my hair cut.*(==让别人做某事have sth. done==)
    - 主+系+表语:*His advice proved right.*(用be替代动词成立)
 2. 句子主干有且仅有一个谓语动词
 
@@ -59,7 +59,7 @@
      - *My question is why you are so clever.*
    - 同位语从句（从句放在了相同的位置）
      - *The question why you are so clever interests me.*
-     - *The question interests me that why you are so clever.*(==that不可以省略，因为后置why不能单独引导同位语从句，that具有标注出从句，链接主从的语法作用，但是无实际意义==)
+     - *The question interests me ==that== why you are so clever.*(==that不可以省略，因为后置why不能单独引导同位语从句，that具有标注出从句，链接主从的语法作用，但是无实际意义==)
 
 6. 补充：
 
@@ -73,7 +73,7 @@
    
      疑问句的从句后置需要另外讨论。
    
-   - *农耕文明与海洋文明的差异
+   - 农耕文明与海洋文明的差异
    
    - 常见语法错误：从句语序当疑问句使用了
    
@@ -92,7 +92,7 @@
 
    - ​	whose book作为一个整体的主语成分，不可拆分
      - 原语序是：*whose book was that* ？ （口语that可以省略）
-     - ==that 是表语，在从句中作为形式主语，使得结构完整，可以不加==
+     - ==that 在从句中作为形式主语，使得结构完整，可以不加==
 
 3. *Whatever he likes will be given to him.*                        `主谓宾结构，主语从句`
 

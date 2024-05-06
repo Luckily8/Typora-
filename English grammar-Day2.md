@@ -40,13 +40,64 @@
 
 3. as的特殊用法
 
-   - 固定搭配：such..as//the same...as
+   - ==固定搭配：such..as//the same...as==
    - as不可以指代具体的词，一般代指某件事，句首或句末 
 
 ##### 巩固练习：
 
 1. *The man to ___ I talked is Mr.Wang.*  						`whom`
-   - the man作为宾语，而且是状语
+   - to __作为宾语，而且是状语
 2. *___ we all know,the earth is ground.*                           `as`
 3. *I’ll never forget the days __ we spent together.*            `that/which`
 4. *I’ll never forget the day __ I joined the league.*             `when` 
+
+
+
+#### 副词性从句
+
+1. 使用从句来代表副词（状语从句）
+
+2. 副词（状语）：修饰动词，形容词或者整个句子的可有可无成分
+
+   ​		※时间-程度-地点-频率-方式...
+
+3. 变化方法：连词+完整句子==状语
+
+   - 时间：after
+   - 地点：where：*You should have put the book where you found it.*
+   - 原因：because
+   - 目的：so that：*He looked down so that she could not see his eyes.*
+   - 条件：if
+   - 结果：so
+   - 比较：than：*You look younger than you are ==(young)==.*   ==避免同一个词出现两次==
+   - 让步：although
+
+##### 补充：
+
+1. 主要记时间状语![image-20240506184855468](C:/Users/86198/AppData/Roaming/Typora/typora-user-images/image-20240506184855468.png)
+2. on和off的区别：on连接，off不连接
+   - *I had a day off*   、 *take off*
+3. take和get的区别：拿着，得到
+   - *take it*   、*get it*
+
+##### 巩固练习：
+
+1. *You’d better think twice before you make your decision.*
+
+   - had better do:最好做某事
+
+2. since两种常用用法（翻译无区别）：
+
+   - 一般现在+since过去时
+   - 现在完成时+since过去时
+
+3. 一...就...：
+
+   - ※Hardly..when
+   - ※no sooner...than
+   - once、as soon as、the moment
+
+4. whatever you choose==no matter what/which you choose
+
+   
+
