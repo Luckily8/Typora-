@@ -75,9 +75,11 @@
 ##### 补充：
 
 1. 主要记时间状语![image-20240506184855468](C:/Users/86198/AppData/Roaming/Typora/typora-user-images/image-20240506184855468.png)
-2. on和off的区别：on连接，off不连接
+2. 与形容词从句中when，where，why的区别：
+   - 形容词从句的==代词连接====词和句子==，而副词性从句没有修饰关系，==连词连接句子和句子==
+3. on和off的区别：on连接，off不连接
    - *I had a day off*   、 *take off*
-3. take和get的区别：拿着，得到
+4. take和get的区别：拿着，得到
    - *take it*   、*get it*
 
 ##### 巩固练习：
